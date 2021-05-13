@@ -1,2 +1,1 @@
-# Learn_Github
-Learning Github with Coursera
+g the README file. Adding some more details about the project description.
